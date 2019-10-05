@@ -1,7 +1,7 @@
 from itertools import izip, cycle
 import base64
 # only Python2
-# Script solving PentesterAcademy WAP Challenge 9
+# Script solving PentesterAcademy WAP Challenge 
 
 
 def xor_en_de_crypt(data, key):
